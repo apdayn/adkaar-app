@@ -1,7 +1,7 @@
 # adkaar
 
 A new Flutter project.
-
+flutter create --platforms=android,ios my_app_name
 ## Getting Started
 
 This project is a starting point for a Flutter application.
